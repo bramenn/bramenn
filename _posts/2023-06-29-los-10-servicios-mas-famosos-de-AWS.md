@@ -2,7 +2,7 @@
 title: "Los 10 servicios mas famosos de AWS"
 excerpt: "Post que muestra los 10 servicios mas famosos de AWS"
 header:
-  teaser: "markup-syntax-highlighting-teaser.jpg"
+  teaser: "assets/images/aws.webp"
 tags: 
   - Amazon
   - Amazon Web Service
