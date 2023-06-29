@@ -61,7 +61,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
 search                   : true
-search_full_content      : # true, false (default)
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Brayan Alejandro Herrera Amariles"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Ingeniero de sistemas y computación - Universidad Tecnologica de Pereira"
+  bio              : "Ingeniero de sistemas y computación"
   location         : "Colombia"
   # email            : "bramendev@gmail.com"
   links:
