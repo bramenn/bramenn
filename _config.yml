@@ -107,9 +107,9 @@ analytics:
 author:
   name             : "Brayan Alejandro Herrera Amariles"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Ingeniero de sistemas y computacioón"
+  bio              : "Ingeniero de sistemas y computación - Universidad Tecnologica de Pereira"
   location         : "Colombia"
-  email            : "bramendev@gmail.com"
+  # email            : "bramendev@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
