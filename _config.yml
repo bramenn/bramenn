@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Brayan Alejandro Herrera Amariles"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Ingeniero de sistemas y computación"
+  bio              : "Desarrollador backend"
   location         : "Colombia"
   # email            : "bramendev@gmail.com"
   links:
@@ -258,16 +258,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
