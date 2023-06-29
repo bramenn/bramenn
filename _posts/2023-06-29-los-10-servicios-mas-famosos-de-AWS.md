@@ -3,9 +3,7 @@ title: "Los 10 servicios mas famosos de AWS"
 excerpt: "Post que muestra los 10 servicios mas famosos de AWS"
 header:
   overlay_image: "assets/images/aws.jpeg"
-  overlay_color: "#333"
-  caption: "Photo credit: [**Creditos**](https://www.aboutamazon.com/news/aws/the-earliest-aws-customers-who-helped-build-the-cloud)"
-  # teaser: "assets/images/aws.webp"
+  teaser: "assets/images/aws.jpeg"
 tags: 
   - Amazon
   - Amazon Web Service
