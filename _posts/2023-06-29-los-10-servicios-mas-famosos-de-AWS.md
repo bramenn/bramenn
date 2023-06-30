@@ -1,5 +1,5 @@
 ---
-title: "Los 10 servicios mas famosos de AWS"
+title: "Los 10 servicios mas famosos de AWS + Cursos de Udemy"
 excerpt: "Post que muestra los 10 servicios mas famosos de AWS"
 header:
   overlay_image: "assets/images/aws.jpeg"
@@ -9,74 +9,38 @@ tags:
   - Amazon Web Service
   - AWS
   - Cloud
+  - AWS products
+  - Udemy AWS
+  - Udemy
 ---
 
-Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
+Todos sabemos la cantidad tan amplia de servicios que tiene disponible Amazon Web Service (**AWS** para los amigos) y seria casí imposible conocerlos todos al detalle. Pero hay algunos servicios que se han vuelto mas famosos que otros, incluso se han vuelto pioneros en resolver un problemas muy espesificos.
 
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
+Estos productos son elegidos por las grandes empresas como sus mayor herramienta, incluso las startups los usan para optimizar sus productos emergentes.
 
-### GFM Code Blocks
+Hemos elaborado un **Top 10** de los servicios mas famosos de **AWS** que podras usar como respuesta en tus proximas entrevistas laborales y te van a ayudar a verte como un mejor profesional en el area de las TI. Ademas incluimos información sobre cada producto de **AWS** y sus respectivos crusos que profundizan en estas herramientas.
 
-GitHub Flavored Markdown [fenced code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/) are supported. To modify styling and highlight colors edit `/_sass/syntax.scss`.
+Ahora que ya sabes de que se trata, no perdamos mas tiempo. Veamos cuales y donde estudiarlos.
 
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
+## TOP 10 SERVICIOS MAS FAMOSOS DE AWS:
 
-```html
-{% raw %}<nav class="pagination" role="navigation">
-  {% if page.previous %}
-    <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
-  {% endif %}
-  {% if page.next %}
-    <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
-  {% endif %}
-</nav><!-- /.pagination -->{% endraw %}
-```
+- ### 1 [Amazon EC2](https://aws.amazon.com/ec2/?did=ap_card&trk=ap_card)
+  De sus siglas en ingles, Amazon Compute Cloud es un servicio de computo que ofrece la posibilidad de elegir el procesador, el almacenamiento, la red, el sistema operativo entr otros. Sus caracteritsticas mas llamativas son la posibilidad de escalar[^1] propiedades segun la carga computacional bajo demanda.
 
-```ruby
-module Jekyll
-  class TagIndex < Page
-    def initialize(site, base, dir, tag)
-      @site = site
-      @base = base
-      @dir = dir
-      @name = 'index.html'
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
-      self.data['tag'] = tag
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
-      tag_title_suffix = site.config['tag_title_suffix'] || '&#8211;'
-      self.data['title'] = "#{tag_title_prefix}#{tag}"
-      self.data['description'] = "An archive of posts tagged #{tag}."
-    end
-  end
-end
-```
+  #### Cursos de Udemy:
+  - [Amazon EC2 Masterclass (Auto Scaling & Load Balancer)](https://www.udemy.com/course/aws-ec2-masterclass/)
+  - [Master Amazon EC2 Basics with 10 Labs](https://www.udemy.com/course/ec2with10labs/)
+  - [Managing EC2 and VPC: AWS with Python and Boto3 Series](https://www.udemy.com/course/aws-with-python-and-boto3-managing-ec2-and-vpc/)
 
-### Code Blocks in Lists
+- ### 2 [Amazon ECS](https://aws.amazon.com/es/ecs/?did=ap_card&trk=ap_card)
+  
 
-Indentation matters. Be sure the indent of the code block aligns with the first non-space character after the list item marker (e.g., `1.`). Usually this will mean indenting 3 spaces instead of 4.
+[^1]: https://learn.microsoft.com/es-es/biztalk/core/what-is-scalability
 
-1. Do step 1.
-2. Now do this:
-   
-   ```ruby
-   def print_hi(name)
-     puts "Hi, #{name}"
-   end
-   print_hi('Tom')
-   #=> prints 'Hi, Tom' to STDOUT.
-   ```
-        
-3. Now you can do this.
 
-### GitHub Gist Embed
 
-An example of a Gist embed below.
 
-<script src="https://gist.github.com/mmistakes/6589546.js"></script>
+
+
+
+
