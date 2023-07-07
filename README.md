@@ -1,5 +1,4 @@
-## Hi, thanks for visiting my profile. 😁 
-![](https://komarev.com/ghpvc/?username=bramenn&label=PROFILE+VIEWS&style=for-the-badge&color=green)
+## Hi, thanks for visiting my profile. 😁
 
 I'm Alejandro Herrera, I'm a systems and computer engineer at the Universidad Tecnologica de Pereira.
 
