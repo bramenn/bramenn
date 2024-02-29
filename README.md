@@ -1,6 +1,6 @@
 ## Hi, thanks for visiting my profile. 😁
 
-I'm Alejandro Herrera, I'm computer engineer at the Universidad Tecnologica de Pereira.
+I'm Alejandro Herrera, I'm computer engineer at Universidad Tecnologica de Pereira.
 
 Skills:
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
