@@ -1,8 +1,6 @@
 ## Hi, thanks for visiting my profile. 😁
 
-I'm Alejandro Herrera, I'm a systems and computer engineer at the Universidad Tecnologica de Pereira.
-
-I currently work at iKono Telecomunicaciones as a backend developer.
+I'm Alejandro Herrera, I'm computer engineer at the Universidad Tecnologica de Pereira.
 
 Skills:
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
